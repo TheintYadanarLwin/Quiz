@@ -5,6 +5,7 @@ OJT Project with Laravel using NUXTJS/Axios
 #Project Set Up
 
 git clone this repo link in your folder
+
 1.git clone https://github.com/TheintYadanarLwin/Quiz.git
 
 Set up for Backend laravel 
